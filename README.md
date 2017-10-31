@@ -4,3 +4,5 @@
 ## Submit a pull request with a link to your favorite online Java resource below:
 
 A personal favorite: [HackerRank's Java Challenges](https://www.hackerrank.com/domains/java/java-introduction)
+
+kevin hey this is my favortite: http://www.learnjavaonline.org/
