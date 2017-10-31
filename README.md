@@ -9,3 +9,4 @@ Who could forget: [StackOverflow](stackoverflow.com)
 Justin Stigall [w3school's Java](https://www.w3schools.in/java-tutorial/)
 kevin hey this is my favortite: [Learn Java Online](http://www.learnjavaonline.org/)
 Jared "Have you checked the JavaDoc??" [JavaDocs] https://docs.oracle.com/javase/8/docs/api/
+Stanley - https://api.jquery.com/
