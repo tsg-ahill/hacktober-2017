@@ -5,6 +5,6 @@
 
 A personal favorite: [HackerRank's Java Challenges](https://www.hackerrank.com/domains/java/java-introduction)
 
-
-Justin Stigall https://www.w3schools.in/java-tutorial/
-kevin hey this is my favortite: http://www.learnjavaonline.org/
+Who could forget: [StackOverflow](stackoverflow.com)
+Justin Stigall [w3school's Java](https://www.w3schools.in/java-tutorial/)
+kevin hey this is my favortite: [Learn Java Online](http://www.learnjavaonline.org/)
