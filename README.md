@@ -15,3 +15,4 @@ Jared "Have you checked the JavaDoc??" [JavaDocs] https://docs.oracle.com/javase
 ## It might not be Java, but javascript is good too..!:
 
 Stanley - [JQuery Docs](https://api.jquery.com/)
+Jared "I wonder if Stanley checked the JavaDoc." [JavaDocs] https://docs.oracle.com/javase/8/docs/api/
