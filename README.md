@@ -11,6 +11,7 @@ Justin Stigall [w3school's Java](https://www.w3schools.in/java-tutorial/)
 kevin hey this is my favortite: [Learn Java Online](http://www.learnjavaonline.org/)
 
 Jared "Have you checked the JavaDoc??" [JavaDocs] https://docs.oracle.com/javase/8/docs/api/
+Jared "I really think you should check the JavaDoc" [JavaDocs] https://docs.oracle.com/javase/8/docs/api/
 
 ## It might not be Java, but javascript is good too..!:
 
