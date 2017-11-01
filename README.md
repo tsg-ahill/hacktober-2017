@@ -7,7 +7,8 @@ A personal favorite: [HackerRank's Java Challenges](https://www.hackerrank.com/d
 Who could forget: [StackOverflow](stackoverflow.com)
 
 Justin Stigall [w3school's Java](https://www.w3schools.in/java-tutorial/)
-Jared "JAVADOC" [JavaDocs] https://docs.oracle.com/javase/8/docs/api/
+
+Jared "JAVADOC" [JavaDocs](https://docs.oracle.com/javase/8/docs/api/)
 
 kevin hey this is my favortite: [Learn Java Online](http://www.learnjavaonline.org/)
 
